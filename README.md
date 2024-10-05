@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnel Gwen Nuqui</h1>
-<h3 align="center">A passionate developer since 2022</h3>
+<h3 align="center">I have been a passionate programmer since 2022.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gwenn01&label=Profile%20views&color=0e75b6&style=flat" alt="gwenn01" /> </p>
 
