@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 align="left">🧐 About Me</h3>
+<h3 align="left"> About Me</h3>
 
 - 🔭 I’m currently working on improving my **Full Stack Development** skills.
 - 🌱 I’m currently learning **AI and Machine Learning**.
