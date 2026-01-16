@@ -65,6 +65,9 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwenn01&theme=ir_black" alt="summary"/>
+</p>
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
