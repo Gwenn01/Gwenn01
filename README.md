@@ -54,32 +54,6 @@
 </p>
 
 <br>
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gwenn01&no-frame=true&no-bg=true&margin-w=4" alt="gwenn01" />
-  </a>
-</div>
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=gwenn01&show_icons=true&locale=en&theme=radical" alt="gwenn01" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.demolab.com/?user=gwenn01&theme=radical" alt="gwenn01" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gwenn01&show_icons=true&locale=en&layout=compact&theme=radical" alt="gwenn01" />
-    </td>
-  </tr>
-</table>
-
 <br>
 
 <h3 align="left">🤝 Connect with me</h3>
