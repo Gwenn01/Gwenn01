@@ -70,7 +70,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=gwenn01&show_icons=true&locale=en&theme=radical" alt="gwenn01" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gwenn01&theme=radical" alt="gwenn01" />
+      <img src="https://github-readme-streak-stats.demolab.com/?user=gwenn01&theme=radical" alt="gwenn01" />
     </td>
   </tr>
   <tr>
