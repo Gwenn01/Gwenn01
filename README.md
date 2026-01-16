@@ -65,10 +65,6 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwenn01&theme=ir_black" alt="summary"/>
-</p>
-
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arnel-gwen-nuqui-a20336261/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
