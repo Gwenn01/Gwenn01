@@ -17,8 +17,25 @@
 - 🌱 I’m currently learning **AI and Machine Learning**.
 - 👨‍💻 All of my projects are available at [https://github.com/Gwenn01](https://github.com/Gwenn01)
 - 📫 How to reach me: **arnelgwenn@gmail.com**
-
 <br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  <h3>🧠 Data Structures & Algorithms Enthusiast</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </p>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://leetcard.jacoblin.cool/yourusername?theme=dark&font=inter&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+  <p>
+    <a href="https://leetcode.com/gwenn">
+      <b>View Full Profile ➜</b>
+    </a>
+  </p>
+</div>
 
 <h3 align="left">🛠️ Technologies & Tools</h3>
 
