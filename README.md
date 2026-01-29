@@ -12,13 +12,15 @@
 <br>
 
 <h3 align="left"> About Me</h3>
-
 - 🔭 I’m currently working on improving my **Full Stack Development** skills.
 - 🌱 I’m currently learning **AI and Machine Learning**.
 - 👨‍💻 All of my projects are available at [https://github.com/Gwenn01](https://github.com/Gwenn01)
 - 📫 How to reach me: **arnelgwenn@gmail.com**
 <br>
-
+  I specialize in building robust server-side logic and high-performance APIs. While I can handle the full stack, my passion lies in what happens **under the hood**.
+<img src="https://img.shields.io/badge/Focus-Backend_Development-black?style=for-the-badge&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/Stack-Django_%7C_Flask-092E20?style=for-the-badge" />
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   <h3>🧠 Data Structures & Algorithms Enthusiast</h3>
@@ -27,8 +29,8 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </p>
-  <a href="https://leetcode.com/yourusername">
-    <img src="https://leetcard.jacoblin.cool/yourusername?theme=dark&font=inter&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/gwenn">
+    <img src="https://leetcard.jacoblin.cool/gwenn?theme=dark&font=inter&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <p>
     <a href="https://leetcode.com/gwenn">
@@ -52,17 +54,20 @@
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <p align="left">
