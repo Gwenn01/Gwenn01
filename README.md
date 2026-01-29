@@ -11,15 +11,35 @@
 
 <br>
 
-<h3 align="left"> About Me</h3>
-- 🔭 I’m currently working on improving my **Full Stack Development** skills.
-- 🌱 I’m currently learning **AI and Machine Learning**.
-- 👨‍💻 All of my projects are available at [https://github.com/Gwenn01](https://github.com/Gwenn01)
-- 📫 How to reach me: **arnelgwenn@gmail.com**
+<div align="center">
+
+  <a href="https://github.com/Gwenn01">
+    <img src="https://img.shields.io/badge/Current_Focus-Full_Stack_%26_Backend-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Gwenn01">
+    <img src="https://img.shields.io/badge/Learning-AI_%26_Machine_Learning-orange?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/Gwenn01">
+    <img src="https://img.shields.io/github/followers/Gwenn01?label=Follow&style=social" />
+  </a>
+  <a href="mailto:arnelgwenn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arnelgwenn%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
 <br>
-  I specialize in building robust server-side logic and high-performance APIs. While I can handle the full stack, my passion lies in what happens **under the hood**.
-<img src="https://img.shields.io/badge/Focus-Backend_Development-black?style=for-the-badge&logo=serverless&logoColor=white" />
-<img src="https://img.shields.io/badge/Stack-Django_%7C_Flask-092E20?style=for-the-badge" />
+<div align="center">
+    <img src="https://img.shields.io/badge/Focus-Backend_Development-black?style=for-the-badge&logo=serverless&logoColor=white" />
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
